@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-$config['base_url'] = 'http://localhost/Multi-Service-Admin-Mobile-Apps/ornidsadmin/';
+$config['base_url'] = 'http://localhost/ornidsadmin-MobileApps/ornidsadmin/';
 
 define('mapboxToken', 'your-mapbox-public-key');
 define('firebaseDb', 'https://firebasedb-url/');
